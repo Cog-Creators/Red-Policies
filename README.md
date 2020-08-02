@@ -1,7 +1,9 @@
 # Red-Policies
+Contains all proposed policies for Cog-Creators/Red-DiscordBot
+
 The [definitions and clarifications](definitions.md) for terms used in these policies can be seen here. 
 
-## Active policies
+## [Active policies](policies/accepted)
 - [Policy 1](policies/accepted/1.md) - Creation and modification of proposals
 - [Policy 2](policies/accepted/2.md) - Org Teams
 - [Policy 3](policies/accepted/3.md) - Core Devs
