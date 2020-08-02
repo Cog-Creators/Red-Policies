@@ -10,7 +10,7 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 - [Policy 6](Active%20Policies/Policy%206.md) - Disputes and Disagreements
 - [Policy 7](Active%20Policies/Policy%207.md) - Voting timelines
 
-### <ins>Policies voted in on 1st of August 2020</ins>
+### <ins>Policies voted on 1st of August 2020</ins>
 | Policies | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes |
 |:---|---|:---:|:---:|:---:|:---:|:---:|
 | [Policy 1](Active%20Policies/Policy%201.md) | *passed* | 11 | 0 | 3 | 2 | 16 |
