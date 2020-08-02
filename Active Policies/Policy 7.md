@@ -1,0 +1,15 @@
+# Voting timelines
+## OVERVIEW
+Active org members should engage in all votes where possible, and when not possible they should at least state that they are abstaining from the vote, if someone is unreachable after 48 hours, then their vote should be considered as abstained, the only exception for this is votes called under [policy 6](Policy%206.md) which has its own timeline.
+## BREAKDOWN
+- Active org members will have 48 hours to cast their votes.
+  - If unable to catch or unavailable to cast their vote then they abstain from the vote session in question.
+- If a voting session ends in a draw with no clear majority, another vote should be called after 24 hours to enable further discussion during the 24h recess period on the vote.
+  - For binary votes:
+    - If the follow up vote still does not get a majority, then the vote will go to the opposition party (If it is a binary vote).
+  - For non-binary votes:
+    - A new vote should be recast the top 2 options from the previous vote.
+    - If the follow up vote still not get a majority get a majority, repeat section 2, with only the 2 choices.
+  - If the vote is multi-choice, use your best judgement.
+- If a voting session ends in favour, whatever is suggested in the vote comes into effect immediately, unless a timeline was given as part of the vote.
+
