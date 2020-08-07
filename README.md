@@ -13,19 +13,14 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 - [Policy 7](policies/accepted/7.md) - Voting timelines
 - [Policy 8](policies/accepted/8.md) - Permanent owner status for Twentysix
 
-### <ins>Policies voted on 1st of August 2020</ins>
-| Policies | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes |
-|:---|---|:---:|:---:|:---:|:---:|:---:|
-| [Policy 1](policies/accepted/1.md) | *passed* | 11 | 0 | 3 | 2 | 16 |
-| [Policy 2](policies/accepted/2.md) | *passed* | 11 | 0 | 3 | 2 | 16 |
-| [Policy 3](policies/accepted/3.md) | *passed* | 11 | 0 | 3 | 2 | 16 |
-| [Policy 4](policies/accepted/4.md) | *passed* | 11 | 0 | 3 | 2 | 16 |
-| [Policy 5](policies/accepted/5.md) | *passed* | 9 | 2 | 3 | 2 | 16 |
-| [Policy 6](policies/accepted/6.md) | *passed* | 11 | 0 | 3 | 2 | 16 |
-| [Policy 7](policies/accepted/7.md) | *passed* | 11 | 0 | 3 | 2 | 16 |
-
-### <ins>Policies voted on 2nd of August 2020</ins>
-| Policies | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes |
-|:---|---|:---:|:---:|:---:|:---:|:---:|
-| [Policy 8](policies/accepted/8.md) | *passed* | 7 | 0 | 1 | 0 | 8 |
-
+### <ins>Policies Votes</ins>
+| Policies | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes | Date |
+|:---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Policy 1](policies/accepted/1.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 01/08/2020
+| [Policy 2](policies/accepted/2.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 01/08/2020
+| [Policy 3](policies/accepted/3.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 01/08/2020
+| [Policy 4](policies/accepted/4.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 01/08/2020
+| [Policy 5](policies/accepted/5.md) | *passed* | 9 | 2 | 3 | 2 | 16 | 01/08/2020
+| [Policy 6](policies/accepted/6.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 01/08/2020
+| [Policy 7](policies/accepted/7.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 01/08/2020
+| [Policy 8](policies/accepted/8.md) | *passed* | 7 | 0 | 1 | 0 | 8 | 02/08/2020
