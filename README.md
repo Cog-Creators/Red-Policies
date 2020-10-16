@@ -12,6 +12,7 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 - [Policy 6](policies/accepted/6.md) - Disputes and Disagreements
 - [Policy 7](policies/accepted/7.md) - Voting timelines
 - [Policy 8](policies/accepted/8.md) - Permanent owner status for Twentysix
+- [Policy 9](policies/accepted/9.md) - Outside Collaborators
 
 ### <ins>Policies Votes</ins>
 | Policies | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes | Date |
@@ -24,3 +25,4 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 | [Policy 6](policies/accepted/6.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 1st of August 2020
 | [Policy 7](policies/accepted/7.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 1st of August 2020
 | [Policy 8](policies/accepted/8.md) | *passed* | 7 | 0 | 1 | 0 | 8 | 2nd of August 2020
+| [Policy 9](policies/accepted/9.md) | *passed* | 8 | 0 | 0 | 0 | 8 | 5th of October 2020
