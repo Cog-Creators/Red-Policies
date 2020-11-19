@@ -13,6 +13,7 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 - [Policy 7](policies/accepted/7.md) - Voting timelines
 - [Policy 8](policies/accepted/8.md) - Permanent owner status for Twentysix
 - [Policy 9](policies/accepted/9.md) - Outside Collaborators
+- [Policy 10](policies/accepted/10.md) - Cog Creator Applications
 
 ### <ins>Policies Votes</ins>
 | Policies | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes | Date |
@@ -26,3 +27,4 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 | [Policy 7](policies/accepted/7.md) | *passed* | 11 | 0 | 3 | 2 | 16 | 1st of August 2020
 | [Policy 8](policies/accepted/8.md) | *passed* | 7 | 0 | 1 | 0 | 8 | 2nd of August 2020
 | [Policy 9](policies/accepted/9.md) | *passed* | 8 | 0 | 0 | 0 | 8 | 5th of October 2020
+| [Policy 10](policies/accepted/10.md) | *passed* | 8 | 0 | 0 | 0 | 8 | 11th of November 2020
