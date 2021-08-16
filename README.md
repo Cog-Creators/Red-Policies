@@ -14,6 +14,7 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 - [Policy 8](policies/active/0008.md) - Permanent owner status for Twentysix
 - [Policy 9](policies/active/0009.md) - Outside Collaborators
 - [Policy 10](policies/active/0010.md) - Cog Creator Applications
+- [Policy 11](policies/active/0011.md) - Licensing org projects
 
 ### <ins>Policies Votes</ins>
 | Policy | Type | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes | Date |
