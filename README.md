@@ -31,4 +31,5 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 | [Policy 10](policies/active/0010.md) | *create* | *passed* | 8 | 0 | 0 | 0 | 8 | 11th of November 2020
 | [Policy 9](policies/active/0009.md) | *amend* | *passed* | 7 | 0 | 0 | 0 | 7 | 14th of April 2021
 | [Policy 10](policies/active/0010.md) | *amend* | *passed* | 7 | 0 | 0 | 0 | 7 | 14th of April 2021
-| [Policy 11](policies/active/0011.md) | *create* | *vote* | 0 | 0 | 0 | 0 | 8 | 16th of August 2021
+| [Policy 2](policies/active/0011.md) | *amend* | *passed* | 8 | 0 | 0 | 0 | 8 | 16th of August 2021
+| [Policy 11](policies/active/0011.md) | *create* | *passed* | 8 | 0 | 0 | 0 | 8 | 16th of August 2021
