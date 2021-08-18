@@ -1,7 +1,7 @@
 # Red-Policies
 Contains all proposed policies for Cog-Creators/Red-DiscordBot
 
-The [definitions and clarifications](definitions.md) for terms used in these policies can be seen here. 
+The [definitions and clarifications](definitions.md) for terms used in these policies can be seen here.
 
 ## [Active policies](policies/active)
 - [Policy 1](policies/active/0001.md) - Creation and modification of proposals
@@ -14,6 +14,7 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 - [Policy 8](policies/active/0008.md) - Permanent owner status for Twentysix
 - [Policy 9](policies/active/0009.md) - Outside Collaborators
 - [Policy 10](policies/active/0010.md) - Cog Creator Applications
+- [Policy 11](policies/active/0011.md) - Licensing org projects
 
 ### <ins>Policies Votes</ins>
 | Policy | Type | Status | Votes in Favour | Votes Against | Votes Abstained | Votes Not Cast | Total Available votes | Date |
@@ -30,3 +31,4 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 | [Policy 10](policies/active/0010.md) | *create* | *passed* | 8 | 0 | 0 | 0 | 8 | 11th of November 2020
 | [Policy 9](policies/active/0009.md) | *amend* | *passed* | 7 | 0 | 0 | 0 | 7 | 14th of April 2021
 | [Policy 10](policies/active/0010.md) | *amend* | *passed* | 7 | 0 | 0 | 0 | 7 | 14th of April 2021
+| [Policy 11](policies/active/0011.md) | *create* | *vote* | 0 | 0 | 0 | 0 | 8 | 16th of August 2021
