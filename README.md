@@ -33,4 +33,4 @@ The [definitions and clarifications](definitions.md) for terms used in these pol
 | [Policy 10](policies/active/0010.md) | *amend* | *passed* | 7 | 0 | 0 | 0 | 7 | 14th of April 2021
 | [Policy 2](policies/active/0002.md) | *amend* | *passed* | 8 | 0 | 0 | 0 | 8 | 16th of August 2021
 | [Policy 11](policies/active/0011.md) | *create* | *passed* | 8 | 0 | 0 | 0 | 8 | 16th of August 2021
-| [Policy 10](policies/active/0010.md) | *amend* | *TBD* | 0 | 0 | 0 | 0 | 10 | 3rd of June 2023
+| [Policy 10](policies/active/0010.md) | *amend* | *passed* | 10 | 0 | 0 | 0 | 10 | 5rd of June 2023
